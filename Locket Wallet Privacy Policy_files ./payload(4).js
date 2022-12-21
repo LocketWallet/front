@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/policies/referral", {data:[{}],fetch:{},mutations:[]});
